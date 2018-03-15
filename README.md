@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # whatwhyhow7's blog
 
 这是 [@whatwhyhow7](https://whatwhyhow7.github.io/blog) 的个人技术博客。
@@ -17,6 +18,8 @@
 
 - [qwtel / hydejack](https://github.com/qwtel/hydejack/)
 =======
+=======
+>>>>>>> 729926aba1a695b370ecc78f83fec1aa66781d0d
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DuncanTim21/DuncanTim21.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -54,4 +57,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<<<<<<< HEAD
 >>>>>>> f224ae9f20ceb95c0e0529396138df8a0e5813f0
+=======
+>>>>>>> 729926aba1a695b370ecc78f83fec1aa66781d0d
