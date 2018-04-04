@@ -1,14 +1,14 @@
-# whatwhyhow7's homepage
+# duncantim21's homepage
 
-这是 [@whatwhyhow7](https://whatwhyhow7.github.io/) 的个人主页。
+这是 [@duncantim21](https://duncantim21.github.io/) 的个人主页。
 
 ## 主要内容
 
 主页中包含了技术博客、摄影作品以及个人简历三部分内容...的入口，其他就没啥了...
 
-- [Blog](https://whatwhyhow7.github.io/blog)
-- [Photo](https://whatwhyhow7.github.io/photo)
-- [Resume](https://whatwhyhow7.github.io/resume)
+- [Blog](https://duncantim21.github.io/blog)
+- [Photo](https://duncantim21.github.io/photo)
+- [Resume](https://duncantim21.github.io/resume)
 
 ## 申明和感谢
 
